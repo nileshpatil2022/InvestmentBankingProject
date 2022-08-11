@@ -19,8 +19,6 @@ public class TC02VerifyDashBoardTabClickable extends Test_BaseClass
 	public void dashBoardClick()
 	{
 		
-        
-       
          
          PortfolioPOMClass pp=new PortfolioPOMClass(driver);
          pp.clickDashboardTab();
